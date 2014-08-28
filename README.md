@@ -8,6 +8,8 @@ allow the use of existing libraries.
 
 Note: This library currently conforms to [XMLHttpRequest 1](http://www.w3.org/TR/XMLHttpRequest/). Version 2.0 will target [XMLHttpRequest Level 2](http://www.w3.org/TR/XMLHttpRequest2/).
 
+minor fix: force touse global agent
+
 ## Usage ##
 
 Here's how to include the module in your project and use as the browser-based
